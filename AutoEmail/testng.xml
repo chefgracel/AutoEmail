@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="uk_emails" parallel="tests"> 
+  <test name="ele_emails_on_chrome">
+    <classes>
+      <class name="com.flux.test.inbound.AdminNewInbound"/>
+    </classes>
+  </test> <!-- ele_emails_on_chrome -->
+</suite> <!-- uk_emails -->

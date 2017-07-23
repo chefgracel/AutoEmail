@@ -1,0 +1,27 @@
+# Login
+url=https://qa.test.powershop.co.uk/admin
+email=dev@powershop.co.nz
+password=b3c4reful
+token=bffbreakup
+
+# Signup
+brand=Powershop
+
+# Scripts setup
+setupuk_path=/Users/gracelee/Documents/setup_uk_pro.sh
+surl=https://qa.test.powershop.co.uk
+ssd=20161010
+stop_at=6
+MRA_DEL_path=/Users/gracelee/Documents/DelMra.sh
+server=
+
+# Scripts switch out
+byeuk_path=/Users/gracelee/Documents/byeuk.sh
+meter_number=F07K24360
+register_serial=1
+outbound_date=20161110
+last_reading=19801.0
+
+# Current MPAN
+mpan=1610014890633
+use_exist_mpan=yes

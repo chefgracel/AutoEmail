@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/aws-java-sdk-kms-1.11.49.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/aws-java-sdk-core-1.11.49.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/aws-java-sdk-s3-1.11.49.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/bcpkix-jdk15on-1.54.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/com.springsource.org.apache.coyote-7.0.72.C.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/com.springsource.org.apache.juli-7.0.72.C.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/com.springsource.org.apache.tomcat-7.0.72.C.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/com.springsource.org.apache.tomcat.util-7.0.72.C.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/bcprov-jdk15on-1.54.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/ion-java-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/jackson-annotations-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/jackson-core-2.6.6.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/jackson-dataformat-cbor-2.6.6.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/jasypt-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/jmespath-java-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/joda-time-2.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/com.springsource.org.apache.catalina-7.0.72.C.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/selenium-chrome-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/selenium-java-2.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/selenium-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/selenium-support-3.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/tc-runtime-instance-3.2.4.SR1.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/tc-runtime-security-3.2.4.SR1.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/tc-runtime-util-3.2.4.SR1.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/webdriver-common-0.9.7376.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/jackson-databind-2.6.6.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zhaojunbao/chefgrace/AutoEmail/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
